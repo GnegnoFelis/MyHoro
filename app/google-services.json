@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032758360344",
+    "firebase_url": "https://myzodiac-master.firebaseio.com",
+    "project_id": "myzodiac-master",
+    "storage_bucket": "myzodiac-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032758360344:android:2c94fdedbb974f05",
+        "android_client_info": {
+          "package_name": "com.gnegno.horoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032758360344-vt8lp2v1nnscmnf264kqak8dqq3liiln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gnegno.horoscope",
+            "certificate_hash": "047bf27a6cbdcf3b203fdf7f064c5ef13ac9378f"
+          }
+        },
+        {
+          "client_id": "1032758360344-2qamouj2d0oq7pbe1s2rlbthsbinid0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBX8bnNnkBuktCfQ1bmQvgLLStD9bXwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032758360344-2qamouj2d0oq7pbe1s2rlbthsbinid0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
